@@ -12,9 +12,9 @@ This is a Car Rental Website built using the MERN stack (MongoDB, Express.js, Re
 **Technologies Used**
 - **Frontend:**
 
- + React.js
- + HTML5, CSS3
- + Bootstrap (or any CSS framework you used)
+   + React.js
+   + HTML5, CSS3
+   + Bootstrap 
 - **Backend:**
 
    + Node.js
@@ -22,3 +22,7 @@ This is a Car Rental Website built using the MERN stack (MongoDB, Express.js, Re
 - **Database:**
 
     + MongoDB (using Mongoose ORM)
+
+**Installation**
+
+
