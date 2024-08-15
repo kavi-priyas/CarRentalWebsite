@@ -23,6 +23,6 @@ This is a Car Rental Website built using the MERN stack (MongoDB, Express.js, Re
 
     + MongoDB (using Mongoose ORM)
 
-**Installation**
+
 
 
